@@ -1,2 +1,2 @@
 # GraphicsTutorials
-Modern OpenGL program demonstrating the shader usage, uniform variables, textures with well structured C++ programming paradigm.
+Modern OpenGL program demonstrating the OpenGL Texture, UV, sampler2D with well structured C++ programming paradigm.
